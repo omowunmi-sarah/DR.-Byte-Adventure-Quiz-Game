@@ -230,7 +230,7 @@ public class DrByteAdventureQuiz {
         System.out.println("      \"The tough old witch was right.\"\n");
         System.out.println("  And whenever you found a missing semicolon after six hours of debugging,");
         System.out.println("  you added:\n");
-        System.out.println("      \"God bless Dr. Byte... but small, small.\" \uD83E\uDDD9\u200D♂️\uD83D\uDCBB\uD83D\uDE02\n");
+        System.out.println("      \"God bless Dr. Byte... but small, small.\n");
         System.out.println("  Final Score: " + score + " / 5  —  Perfect. Dr. Byte would be proud.");
         System.out.println("              (She will never admit it, but she would be proud.)\n");
         printDivider();
